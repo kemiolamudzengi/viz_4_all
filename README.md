@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c45e7af9-926c-4dde-9092-98863c5d9302)# Ashesites
+# HI Ashesites
 ## Welcome ooooo
 This is the landing page for all the files we have used this week. 
 
